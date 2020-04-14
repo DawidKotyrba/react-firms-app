@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-firms-app/static/css/main.0d7d2f18.chunk.css",
-    "main.js": "/react-firms-app/static/js/main.14745a1f.chunk.js",
-    "main.js.map": "/react-firms-app/static/js/main.14745a1f.chunk.js.map",
+    "main.css": "/react-firms-app/static/css/main.df698562.chunk.css",
+    "main.js": "/react-firms-app/static/js/main.4d91dc22.chunk.js",
+    "main.js.map": "/react-firms-app/static/js/main.4d91dc22.chunk.js.map",
     "runtime-main.js": "/react-firms-app/static/js/runtime-main.7b00dacc.js",
     "runtime-main.js.map": "/react-firms-app/static/js/runtime-main.7b00dacc.js.map",
     "static/js/2.9c6ce354.chunk.js": "/react-firms-app/static/js/2.9c6ce354.chunk.js",
     "static/js/2.9c6ce354.chunk.js.map": "/react-firms-app/static/js/2.9c6ce354.chunk.js.map",
     "index.html": "/react-firms-app/index.html",
-    "precache-manifest.7ccec71d44a586ff5ecb6e999342804e.js": "/react-firms-app/precache-manifest.7ccec71d44a586ff5ecb6e999342804e.js",
+    "precache-manifest.27dd31c39163960cc939113c10229610.js": "/react-firms-app/precache-manifest.27dd31c39163960cc939113c10229610.js",
     "service-worker.js": "/react-firms-app/service-worker.js",
-    "static/css/main.0d7d2f18.chunk.css.map": "/react-firms-app/static/css/main.0d7d2f18.chunk.css.map",
+    "static/css/main.df698562.chunk.css.map": "/react-firms-app/static/css/main.df698562.chunk.css.map",
     "static/js/2.9c6ce354.chunk.js.LICENSE.txt": "/react-firms-app/static/js/2.9c6ce354.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b00dacc.js",
     "static/js/2.9c6ce354.chunk.js",
-    "static/css/main.0d7d2f18.chunk.css",
-    "static/js/main.14745a1f.chunk.js"
+    "static/css/main.df698562.chunk.css",
+    "static/js/main.4d91dc22.chunk.js"
   ]
 }
