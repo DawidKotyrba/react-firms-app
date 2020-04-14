@@ -35,5 +35,4 @@ $ npm start
 
 https://recruitment.hal.skygate.io/companies
 
-https://recruitment.hal.skygate.io/incomes/:id"# react-firms-app" 
-"# react-firms-app" 
+https://recruitment.hal.skygate.io/incomes/:id
