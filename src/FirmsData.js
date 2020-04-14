@@ -246,7 +246,7 @@ class FirmsData extends Component {
         this.setState({
             filtredFirmsNames: filteredArray,
         });
-        this.paginate(1)
+        this.paginate(1);
     };
 
 
